@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Apsie
 - 👀 I’m interested in web designing and coding
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS, jAVASCRIPT and Python
 
 <!---
 BarataApsii/BarataApsii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
